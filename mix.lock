@@ -1,0 +1,5 @@
+%{
+  "ex_utils": {:hex, :ex_utils, "0.1.7", "2c133e0bcdc49a858cf8dacf893308ebc05bc5fba501dc3d2935e65365ec0bf3", [:mix], [], "hexpm"},
+  "memento": {:hex, :memento, "0.2.1", "123e1d47b4be0c44cf3da97b70600ddb294e99232209f9a9342cde7d5fda478a", [:mix], [], "hexpm"},
+  "que": {:hex, :que, "0.7.0", "e9356c65477ad0baf292f29d33971b271dca520acc77d4ddfda23a2d8138f308", [:mix], [{:ex_utils, "~> 0.1.6", [hex: :ex_utils, repo: "hexpm", optional: false]}, {:memento, "~> 0.2.1", [hex: :memento, repo: "hexpm", optional: false]}], "hexpm"},
+}
